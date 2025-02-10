@@ -143,7 +143,7 @@ Weight (kg):
 - 1.5 kg – Standard weight for thin-and-light laptops.
 - 2.0 kg – Heavier, usually for gaming or performance.
 - 3.0+ kg – Bulkier laptops with powerful hardware.
-- 
+
 Operating System:
 - Windows – Most common, supports a wide range of software.
 - macOS – Apple’s OS, optimized for MacBooks.
