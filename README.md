@@ -156,7 +156,7 @@ Price ($):
 - 1200-2500 – High-performance laptops for professionals.
 - 2500+ – Premium laptops for gaming and creative work.
 
-11. Regulations for Data Usage
+11. Data Usage
 
 This dataset is free to use and is ideal for data science projects, machine learning regression tasks, and business analytics.
 
